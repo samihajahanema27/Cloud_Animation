@@ -67,8 +67,8 @@ cloud.exe
 
 ```
 📁 Realistic-Cloud-Animation
- ┣ 📄 main.cpp
- ┣ 🖼️ preview.png
+ ┣ 📄 Cloud_Animation.mp4
+ ┣ 🖼️ Code.cpp
  ┗ 📄 README.md
 ```
 
