@@ -5,6 +5,12 @@ A simple yet visually pleasing cloud animation built using **OpenGL** and **GLUT
 
 ---
 
+## 🎥 Demo Video
+
+[Click to watch animation](Cloud_Animation.mp4)
+
+---
+
 ## ✨ Features
 
 🌤️ **Dynamic Clouds**
