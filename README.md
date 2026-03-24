@@ -5,14 +5,6 @@ A simple yet visually pleasing cloud animation built using **OpenGL** and **GLUT
 
 ---
 
-## 🎥 Preview
-
-<p align="center">
-  <img src="C:\Users\asus\Downloads\WhatsApp Image 2026-03-24 at 11.40.12 AM.jpeg" alt="Cloud Animation Preview" width="600"/>
-</p>
-
----
-
 ## ✨ Features
 
 🌤️ **Dynamic Clouds**
